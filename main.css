@@ -51,7 +51,6 @@ padding-bottom: 30px;
 padding-top: 10px;
 
 
-
 }
 
 .subheadings{
@@ -73,15 +72,11 @@ padding-top: 10px;
 	font-family: "serif;", sans-serif;
 	margin: auto;
     
-
-
-
 }
 
 img{
 	
 	max-width: 100%;
-
 
 }
 
@@ -103,7 +98,7 @@ img{
 .story-text{
 	font-family: "Times New Roman", sans-serif;
 	color: black;
-	font-size: 20px;
+	font-size: 18px;
 	padding-left: 20px;
 	padding-right: 20px;
 	max-width: 600px;
@@ -137,11 +132,14 @@ h2{
 .middle-text{
 	font-family: "Times New Roman", sans-serif;
 	color: black;
-	font-size: 20px;
+	font-size: 18px;
 	max-width: 600px;
 	padding-right: 20px;
 	padding-left: 20px;
 	margin: auto;
+	border-bottom: .5px #0066CD solid;
+	padding-bottom: 20px;
+
 }
 
 
@@ -150,10 +148,10 @@ h2{
 	max-width: 600px;
 	margin: auto;
 	padding-top: 20px;
-	border-bottom: .5px #0066CD solid;
 	padding-left: 5%;
 	padding-right: 5%;
 	padding-bottom: 30px;
+
 	
 }
 
@@ -161,43 +159,46 @@ h2{
 .text{
 	font-family: "Times New Roman", sans-serif;
 	color: black;
-	font-size: 20px;
+	font-size: 18px;
 	padding-left: 20px;
 	padding-right: 20px;
-	padding-top: 20px;
 	max-width: 600px;
 	margin: auto;
+
+
 
 }
 
 .end-text{
 	font-family: "Times New Roman", sans-serif;
 	color: black;
-	font-size: 20px;
+	font-size: 18px;
 	padding-left: 20px;
 	padding-right: 20px;
-	padding-top: 20px;
 	max-width: 600px;
 	margin: auto;
-	padding-bottom: 30px;
+	
 }
 
 .footer{
-	color: black;
+	color: whitesmoke;
 	font-family: "serif;", sans-serif;
-	background-color: #E6E6E3;
 	border-bottom: 50px #0066CD solid;
 	border-bottom-width: 60px;
 	width: 100%;
 	padding-right: 20px;
 	padding-left: 20px;
-	font-size: 19px;
+	font-size: 20px;
 	padding-top: 10px;
 
 }
 
+h3{
+	color: black ;
+}
+
 h4{
-	color: #0066CD ;
+	
 	font-size: 12px;
 }
 
